@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\ProvaPOOex2\ProvaPOOex2\bin\Debug\ProvaPOOex2.exe.config
+C:\Users\marco\source\repos\ProvaPOOex2\ProvaPOOex2\bin\Debug\ProvaPOOex2.exe
+C:\Users\marco\source\repos\ProvaPOOex2\ProvaPOOex2\bin\Debug\ProvaPOOex2.pdb
+C:\Users\marco\source\repos\ProvaPOOex2\ProvaPOOex2\obj\Debug\ProvaPOOex2.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\ProvaPOOex2\ProvaPOOex2\obj\Debug\ProvaPOOex2.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ProvaPOOex2\ProvaPOOex2\obj\Debug\ProvaPOOex2.exe
+C:\Users\marco\source\repos\ProvaPOOex2\ProvaPOOex2\obj\Debug\ProvaPOOex2.pdb
